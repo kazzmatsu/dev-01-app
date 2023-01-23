@@ -17,7 +17,11 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            <code className={styles.code}>Kaz Matsu</code>
+            <code className={styles.code}>
+              Kaz Matsu<br/><br/>
+              Kazuhiko Matsumoto<br/><br/>
+              松本 和彦<br/>
+            </code>
           </p>
           {/* <div>
             <a
